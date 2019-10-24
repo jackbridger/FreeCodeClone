@@ -1,0 +1,1 @@
+### In this project, I will attempt to recreate some of the core features of FreeCodeCamp in order to understand how they built it and to hopefully make an Open Source contribution.
