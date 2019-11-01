@@ -1,6 +1,13 @@
 {
   "db": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "freecodeclonedb",
+    "password": "",
     "name": "db",
-    "connector": "memory"
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
   }
 }
